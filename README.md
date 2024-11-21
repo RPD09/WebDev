@@ -10,7 +10,7 @@ Welcome to my **Web Development** repository! This is where I'll be uploading an
 
 ## 🛠️ Projects
 - Soon
-- 
+
 ---
 
 ✨ _Feel free to explore and use this repo as a reference!_ ✨
